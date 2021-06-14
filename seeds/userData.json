@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Paul Heyman",
+      "email": "paulieh@gmail.com",
+      "password": "paulpassword"
+    },
+    {
+      "name": "Eric Bischoff",
+      "email": "ericb@gmail.com",
+      "password": "ericpassword"
+    },
+    {
+      "name": "Vince McMahon",
+      "email": "bossvince@gmail.com",
+      "password": "vincepassword"
+    }
+  ]
